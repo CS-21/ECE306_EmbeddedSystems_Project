@@ -1,4 +1,3 @@
-# ECE306_EmbeddedSystems_Project
 # ECE 306 Embedded Systems Projects – NC State University
 
 This repository contains a series of cumulative embedded systems projects completed as part of ECE 306 (Introduction to Embedded Systems) at North Carolina State University during Spring 2025.
