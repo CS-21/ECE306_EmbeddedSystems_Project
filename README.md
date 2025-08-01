@@ -4,13 +4,13 @@ This repository contains a series of cumulative embedded systems projects comple
 
 The course focused on programming the **MSP430FR2355** microcontroller in **C**, implementing real-time control of peripherals, and integrating hardware and software components in an autonomous embedded system.
 
-## 📦 Project Overview
+## Project Overview
 
 Throughout the course, I completed 10 embedded projects that progressively built toward a final functional mobile system. Each project was implemented and demonstrated individually.
 
 ### Final System: Line-following vehicle with IoT capability
 
-## 🚀 Features
+## Features
 
 - **Motor control** (forward/reverse control with timing)
 - **LCD display interface** (real-time data feedback)
@@ -20,7 +20,7 @@ Throughout the course, I completed 10 embedded projects that progressively built
 - **Modular design** using C and custom drivers
 - **SIPO/PISO shift register implementation** for sensor reading
 
-## 🛠️ Tools & Hardware Used
+## Tools & Hardware Used
 
 - **Texas Instruments MSP430FR2355 LaunchPad**
 - **Code Composer Studio (CCS)**
@@ -28,14 +28,14 @@ Throughout the course, I completed 10 embedded projects that progressively built
 - **Analog Discovery for debugging**
 - Soldering tools, IR sensors, battery pack, LCD module
 
-## 📂 File Structure
+## File Structure
 
 - `main.c` – Main firmware logic
 - `lcd.c` / `lcd.h` – LCD interface driver
 - `motor.c` / `motor.h` – Motor control functions
 - `serial.c` – UART communication
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 
 - Real-time control of hardware using C
 - State machine design for embedded control
